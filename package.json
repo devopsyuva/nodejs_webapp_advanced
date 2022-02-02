@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-demo-app",
+  "version": "1.0.0",
+  "description": "nodejs demo",
+  "author": "Sudheer Reddy Duba <sudheer.reddy.duba@gmail.com>",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
