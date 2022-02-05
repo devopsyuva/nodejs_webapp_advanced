@@ -5,6 +5,10 @@
   "author": "Sudheer Reddy Duba <sudheer.reddy.duba@gmail.com>",
   "license": "MIT",
   "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo 'Build script executed Successfully!!!'"
+  },
   "keywords": [
     "nodejs",
     "bootstrap",
