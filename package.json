@@ -7,7 +7,8 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "build": "echo 'Build script executed Successfully!!!'"
+    "build": "echo 'Build script executed Successfully!!!'",
+    "test": "mocha --recursive --exit"
   },
   "keywords": [
     "nodejs",
